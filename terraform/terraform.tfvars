@@ -1,0 +1,5 @@
+region = "us-east-1"
+project = "Python-Linkedin"
+key_pair_name = "Python-EC2-key"
+lambda_producer_zip = "path/to/producer.zip"
+lambda_consumer_zip = "path/to/consumer.zip"
